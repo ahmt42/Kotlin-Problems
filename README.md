@@ -10,4 +10,4 @@ Example:
 
 
 [S1]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P1-1.kt
-[S1]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P1-2.kt
+[S2]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P1-2.kt
