@@ -1,3 +1,4 @@
+// Bir metin dosyasındaki kelimelerin sıklıklarını saydırın ve en sık kullanılan 10 kelimeyi yazdırın.
 // 2. çözüm (TreeMap kullanarak)
 
 import java.io.File
