@@ -4,12 +4,18 @@
 #### P3 : Bir kelime veya cümlenin palindrom olup olmadığını kontrol eden bir Kotlin fonksiyonu yazın.
 Örnek:
 ``` kotlin
-println(isPalindrom("radar")) // true
-println(isPalindrom("yemek")) // false
+"radar" // true
+"yemek" // false
 ```
-[P3-S][]
+Örnek:
+``` kotlin
+"A man, a plan, a canal, Panama" // true
+"Hello, World!" // false
+```
+[P3-S1][] [P3-S2][]
 
-[P3-S]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P3-1.kt
+[P3-S1]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P3-1.kt
+[P3-S2]: https://raw.githubusercontent.com/ahmt42/Kotlin-Problems/main/src/P3-2.kt
 
 
 #### P2 : Bir metin dosyasındaki kelimelerin sıklıklarını saydırın ve en sık kullanılan 10 kelimeyi yazdırın.
