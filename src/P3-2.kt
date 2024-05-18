@@ -13,6 +13,9 @@ fun isPalindrom(girdi: String): Boolean {
     val temizGirdi = girdi
         .replace(Regex("[^A-Za-z0-9]"), "")
         .lowercase()
+        
+    // Girdiyi temizle: sadece harfleri al, hepsini küçük harfe çevir
+    // val temizGirdi = girdi.filter { it.isLetter() }.lowercase()
 
     // Girdiyi ters çevirin
     val tersGirdi = temizGirdi.reversed()
